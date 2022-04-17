@@ -1,3 +1,3 @@
 # python-simple-registry
 First Python project.
-Made using SQLite and PyQt5.
+Made using SQLite3 and PyQt5.
